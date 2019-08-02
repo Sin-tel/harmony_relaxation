@@ -16,7 +16,7 @@ guide:
    first column is first neighbors, second column is skipping one etc
  
  how it works:
-  - 4 octave function of harmonic entropy is calculated, see https://en.xen.wiki/w/Harmonic_Entropy
+  - 3 octave function of harmonic entropy is calculated, see https://en.xen.wiki/w/Harmonic_Entropy
     (i use a standard deviation of 10 cents, and weighting with sqrt(n*d))
     this gives a relative dissonance of dyads
   - the total potential is a (weighted) sum of all the dyad potentials
